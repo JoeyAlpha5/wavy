@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wavy/static/css/main.fb88ba6b.chunk.css",
+    "main.js": "/wavy/static/js/main.873005dc.chunk.js",
+    "main.js.map": "/wavy/static/js/main.873005dc.chunk.js.map",
+    "runtime~main.js": "/wavy/static/js/runtime~main.78153525.js",
+    "runtime~main.js.map": "/wavy/static/js/runtime~main.78153525.js.map",
+    "static/js/2.ae777650.chunk.js": "/wavy/static/js/2.ae777650.chunk.js",
+    "static/js/2.ae777650.chunk.js.map": "/wavy/static/js/2.ae777650.chunk.js.map",
+    "index.html": "/wavy/index.html",
+    "precache-manifest.e5548c836a046e72eebaf05d6dfebf24.js": "/wavy/precache-manifest.e5548c836a046e72eebaf05d6dfebf24.js",
+    "service-worker.js": "/wavy/service-worker.js",
+    "static/css/main.fb88ba6b.chunk.css.map": "/wavy/static/css/main.fb88ba6b.chunk.css.map",
+    "static/media/logo.svg": "/wavy/static/media/logo.5d5d9eef.svg",
+    "static/media/wavy.JPG": "/wavy/static/media/wavy.a8ba53b1.JPG"
+  }
+}
